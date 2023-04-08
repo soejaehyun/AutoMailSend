@@ -1,0 +1,25 @@
+uri: 'https://www.naver.com'
+login_info:
+  id: 'c3BvRGFtaGR1VTF0ZWpleW4y'
+  pwd: 'Z0pzZmp0cm90eDJod2ZrMQ=='
+
+recv:
+  to:
+    - 'seojaehyun2@nate.com'
+    - 'seojaehyun12@naver.com'
+    - 'wogus123001@gmail.com'
+  cc:
+    - 'seojaehyun2@nate.com'
+    - 'seojaehyun12@naver.com'
+    - 'wogus123001@gmail.com'
+  bcc:
+    - 'seojaehyun2@nate.com'
+    - 'seojaehyun12@naver.com'
+    - 'wogus123001@gmail.com'
+
+body_info:
+  subject: '테스트!!!!'
+  content: '본문 테스트!!!'
+  attach:
+    - '06_26.docx'
+    - 'test1.mp4'

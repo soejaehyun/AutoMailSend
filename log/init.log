@@ -1,0 +1,27 @@
+[2022-10-08 19:20:18,848] [INFO] log.py:19 ==>> 
+
+--------------------------------------------------------------
+
+[2022-10-08 19:20:18,852] [INFO] util.py:174 ==>> ======================================
+[2022-10-08 19:20:18,853] [INFO] util.py:175 ==>>                running                
+[2022-10-08 19:20:18,853] [INFO] util.py:176 ==>> ======================================
+[2022-10-08 19:20:18,853] [INFO] util.py:177 ==>> repeat(int) : 3
+[2022-10-08 19:20:18,853] [INFO] util.py:178 ==>> running : [{'app': 'naver', 'conf_path': './conf/naver.yml'}]
+[2022-10-08 19:20:18,853] [INFO] util.py:179 ==>> ======================================
+[2022-10-08 19:20:18,859] [INFO] util.py:130 ==>> ======================================
+[2022-10-08 19:20:18,859] [INFO] util.py:131 ==>>                 naver                 
+[2022-10-08 19:20:18,859] [INFO] util.py:132 ==>> ======================================
+[2022-10-08 19:20:18,859] [INFO] util.py:133 ==>> uri(str) : https://www.naver.com
+[2022-10-08 19:20:18,859] [INFO] util.py:135 ==>> << login_info >>
+[2022-10-08 19:20:18,859] [INFO] util.py:136 ==>> id(str) : c3VvSWFZaDF1UjFNZWpleW4y
+[2022-10-08 19:20:18,859] [INFO] util.py:137 ==>> pwd(str) : Z2NzN2o4cmZ0RzJod2ZrMQ==
+[2022-10-08 19:20:18,859] [INFO] util.py:139 ==>> << recv >>
+[2022-10-08 19:20:18,859] [INFO] util.py:140 ==>> to(list) : ['seojaehyun2@nate.com', 'seojaehyun12@naver.com', 'wogus123001@gmail.com']
+[2022-10-08 19:20:18,859] [INFO] util.py:141 ==>> cc(list) : ['seojaehyun2@nate.com', 'seojaehyun12@naver.com', 'wogus123001@gmail.com']
+[2022-10-08 19:20:18,859] [INFO] util.py:142 ==>> bcc(list) : ['seojaehyun2@nate.com', 'seojaehyun12@naver.com', 'wogus123001@gmail.com']
+[2022-10-08 19:20:18,859] [INFO] util.py:144 ==>> << body_info >>
+[2022-10-08 19:20:18,859] [INFO] util.py:145 ==>> subject(str) : 테스트!!!!
+[2022-10-08 19:20:18,859] [INFO] util.py:146 ==>> attach(list) : ['06_26.docx', 'test1.mp4']
+[2022-10-08 19:20:18,860] [INFO] util.py:147 ==>> content(str) : 본문 테스트!!!
+[2022-10-08 19:20:18,860] [INFO] util.py:148 ==>> file_path(str) : C:\Users\seoja\AppData\Local\Temp\_MEI157922\attach
+[2022-10-08 19:20:18,860] [INFO] util.py:149 ==>> ======================================

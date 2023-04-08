@@ -1,0 +1,6 @@
+# Settings required for operation
+
+repeat: 3
+running:
+  - app: 'naver'
+    conf_path: './conf/naver.yml'

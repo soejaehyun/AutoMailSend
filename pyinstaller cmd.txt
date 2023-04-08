@@ -1,0 +1,1 @@
+C:\Users\seoja\AppData\Roaming\Python\Python39\Scripts\pyinstaller.exe main.spec
